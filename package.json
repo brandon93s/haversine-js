@@ -1,0 +1,28 @@
+{
+  "name": "haversine-js",
+  "version": "1.0.0",
+  "description": "Determine the great-circle distance between two points on a sphere given their longitudes and latitudes",
+  "license": "MIT",
+  "author": "Brandon Smith",
+  "repository": "brandon93s/haversine-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "haversine",
+    "longitude",
+    "latitude",
+    "great-circle",
+    "distance"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=4"
+  },
+  "devDependencies": {
+    "ava": "^0.17.0"
+  }
+}
