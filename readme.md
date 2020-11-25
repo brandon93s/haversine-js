@@ -62,7 +62,7 @@ Default: `haversine.EARTH.MILE`
 
 The radius of the sphere.
 
-#### isRadians
+##### isRadians
 
 Type: `boolean` <br>
 Default: `false`
@@ -74,7 +74,7 @@ Set to true if the longitude/latitude values are in radians.
 
 ### Radii
 
-| Constant        | Value          
+| Constant        | Value
 | -------------   |:-------------:|
 | EARTH.MILE      | 3959 |
 | EARTH.KM        | 6371      |
